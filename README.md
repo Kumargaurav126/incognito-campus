@@ -49,11 +49,11 @@
 ``bash
     cd frontend
     npm install
-    npm start
+    npm start``
 
 ### Backend Setup
 ``bash
   cd backend
   mvn clean install
-  java -jar target/incognito-campus.jar
+  java -jar target/incognito-campus.jar``
 
