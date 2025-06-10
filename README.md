@@ -48,14 +48,18 @@
 ### 🖥️ Frontend Setup
 
 ``bash
-    cd frontend
+    cd frontend``
+    
     npm install
+    
     npm start``
 
 ### 🔙 Backend Setup
 
 ``bash
-    cd backend
+    cd backend``
+    
     mvn clean install
+    
     java -jar target/incognito-campus.jar``
 
