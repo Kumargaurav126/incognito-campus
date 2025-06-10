@@ -46,13 +46,13 @@
 - Maven
 
 ### Frontend Setup
-```bash
+``bash
     cd frontend
     npm install
     npm start
 
 ### Backend Setup
-```bash
+``bash
   cd backend
   mvn clean install
   java -jar target/incognito-campus.jar
