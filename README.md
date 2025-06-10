@@ -52,7 +52,7 @@
     
     npm install
     
-    npm start``
+    npm start
 
 ### 🔙 Backend Setup
 
@@ -61,5 +61,5 @@
     
     mvn clean install
     
-    java -jar target/incognito-campus.jar``
+    java -jar target/incognito-campus.jar
 
