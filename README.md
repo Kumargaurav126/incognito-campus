@@ -45,15 +45,17 @@
 - MongoDB
 - Maven
 
-### Frontend Setup
+### 🖥️ Frontend Setup
+
 ``bash
     cd frontend
     npm install
-    npm start``
+    npm start
 
 ### Backend Setup
-``bash
-  cd backend
-  mvn clean install
-  java -jar target/incognito-campus.jar``
+
+```bash
+cd backend
+mvn clean install
+java -jar target/incognito-campus.jar
 
