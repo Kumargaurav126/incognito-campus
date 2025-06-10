@@ -20,7 +20,6 @@
 - **Frontend**: React.js  
 - **Backend**: Spring Boot, WebSocket  
 - **Database**: MongoDB  
-- **Other APIs**: (Upcoming) Gemini AI or OpenAI for chat summarization
 
 ---
 
@@ -45,6 +44,12 @@
 - Java 17+
 - MongoDB
 - Maven
+
+### Frontend Setup
+```bash
+    cd frontend
+    npm install
+    npm start
 
 ### Backend Setup
 ```bash
